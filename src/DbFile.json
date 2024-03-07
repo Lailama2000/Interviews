@@ -1,0 +1,105 @@
+{"first_array":
+[
+    {
+        "id":1,
+        "title":"Go Any Where" ,
+        "s1":"Classic",
+        "s2":"VIP",
+        "s3":"Van",
+        "s4":"School Rides",
+        "n":"GoAnyWhere"
+    },
+    {
+        "id":2,
+        "title":"Eat Any Time",
+        "s1":"Food",
+        "s2":"Dine Out",
+        "n":"EatAnyTime"
+    },
+    {
+        "id":3,
+        "title":"Get Any Thing",
+        "s1":"Super Market",
+        "s2":"Delivery",
+        "n":"GetAnyThing"
+    },
+    {
+        "id":4,
+        "title":"Pay Any one",
+        "s1":"Pay",
+        "s2":"Packages",
+        "n":"PayAnyOne"
+
+    }
+] ,
+"Rdie_Q":
+[
+    {
+        "Question":"What are the cars specifications",
+        "answer":"1)-Classic cars are cars for daily use and are considered the most widely used category in cities   2)-VIP cars are modern cars for use within cities or between governorates. They are comfortable, air-conditioned cars suitable for businessmen and special occasions 3)-VAN cars are a modern, air-conditioned car with a capacity of up to 11 passengers, suitable for companies, institutions, special events, and tourist trips 4)-Mini-VAN cars with a capacity of 7 passengers are used within cities and for transporting employees. It is considered the most economical category if the number of passengers is (5-7) passengers."  
+    } ,
+    {
+        "Question":"What types of cars are available",
+        "answer":"Classic – VIP – VAN – mini-VAN"
+        }
+    ],
+    "SRide_Q":
+    [
+        {
+            "Question":"Is there a service available for schools?",
+            "answer":"Yes, through two categories of cars (VAN_mini-VAN)"  
+        },
+        {
+            "Question":"How is the student transportation service provided?",
+            "answer":"There are two ways: 1. The school is contracted to transport students from their homes to school, and vice versa. The type and category of cars are determined according to the number of students and their places of residence. 2. Each student contracts alone with the company, and a specific number of contracted students is gathered and transported to their schools back and forth, provided that the students’ times and places of residence are coordinated, and the category is determined according to the number of each group of students."  
+        }
+        ],
+        "SMarket_Q":
+        [
+            {
+                "Question":"Is home delivery available?",
+                "answer":"Yes"  
+            },
+            {
+                "Question":"How long will my order take?",
+                "answer":"We will deliver your order in under 20 minutes."  
+            }
+            ],
+            "D_Q":
+            [
+                {
+                    "Question":"What is the working mechanism of the delivery service?",
+                    "answer":"There are two categories of delivery service:1- Bicycles (bicycle - electric - motorcycle), 2- Private cars"  
+                },
+                {
+                    "Question":"What are the types of delivery service?",
+                    "answer":"Transporting parcels within the city or between governorates, provided that they do not exceed 30 kg Delivering purchases from markets and restaurants to the customer’s place of residence"  
+                }
+                ],
+                "Pay_Q":
+                [
+                    {
+                        "Question":"What payment methods do you have available?",
+                        "answer":"Cash payment directly to the driver , Payment via all electronic payment methods available in the Syrian Arab Republic"  
+                    },
+                    {
+                        "Question":"How is electronic payment made?",
+                        "answer":"Click on the electronic payment button and choose to pay through a bank or through the accounts of one of the telecommunications networks"  
+                    }
+                    ],
+                    "Packages_Q":
+                    [
+                        {
+                            "Question":"What does a package mean in the Mashawiri application?",
+                            "answer":"The package is a car request for a period of time with a specific distance allowance according to the type of each package"  
+                        },
+                        {
+                            "Question":"What are the uses for the packages?",
+                            "answer":"Special occasions such as weddings or tourist trips within or outside the city"  
+                        },
+                        {
+                            "Question":"Who uses the packages?",
+                            "answer":"People who have a specific occasion, organizations, institutions, companies and hotels"
+                        }
+                        ]
+}
